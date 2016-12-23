@@ -7,10 +7,10 @@ This is a playground for experimental work with Elm.
 ```
 Files:
 
-    src/Pages.elm
-    src/Data/Page.elm
-    src/Pages/One.elm
-    src/Pages/Two.elm
+    page-stacks/Pages.elm
+    page-stacks/Data/Page.elm
+    page-stacks/Pages/One.elm
+    page-stacks/Pages/Two.elm
 ```
 
 Very ugly proof of concept regarding nav stacks in Elm. Pages can be added to the stack without
